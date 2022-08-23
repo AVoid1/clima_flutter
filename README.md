@@ -1,10 +1,10 @@
 # clima_flutter
 
-A new Flutter project.
+A new Clima APP
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+it is a app which tells you the current temperature of any city from any country
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+https://user-images.githubusercontent.com/82828675/151714639-a9e98f14-ddba-4279-9b6d-78b015d95eeb.mp4
+
